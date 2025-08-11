@@ -21,4 +21,8 @@ This project demonstrates a basic static website layout with sections for naviga
 
 ---
 
+## 🖼️ Screenshots
+- **<img width="1919" height="1013" alt="Perfumy project screenshot" src="https://github.com/user-attachments/assets/67886d88-8547-4af1-a2ff-d6d32ea0379d" />**
+
+
 
