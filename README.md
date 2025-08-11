@@ -21,4 +21,4 @@ This project demonstrates a basic static website layout with sections for naviga
 
 ---
 
-## 📂 Project Structure
+
